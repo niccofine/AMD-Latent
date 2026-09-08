@@ -1,0 +1,76 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.task
+*.tflite
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Models #
+##########
+*.pt
+*.pkl
+*.pth
+*.bin
+
+# Videos #
+##########
+*.avi
+*.bag
+*.mp4
+*.gif
+
+# Folders #
+###########
+runs/
+.venv/
+
+# Python packaging #
+####################
+*.egg-info/
+*.egg
+.eggs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# LaTeX #
+#########
+latexmkrc
+*.aux
+*.bbl
+*.blg
+*.bcf
+*.out
+*.log
+*.xml

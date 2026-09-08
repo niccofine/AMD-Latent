@@ -1,0 +1,43 @@
+## Basic packages
+numpy # for numerical computations
+scipy # for scientific computing
+tqdm # for progress bars
+gdown # to download files from Google Drive
+
+## Jupyter notebooks packages
+jupyterlab # for jupyter notebook environment
+ipywidgets # for interactive widgets in Jupyter notebooks
+ipyfilechooser # for file selection in Jupyter notebooks
+
+## Statistical modeling packages
+statsmodels # for statistical modeling
+scikit-posthocs # for post-hoc analysis
+pingouin # for statistical analysis and visualization
+
+## Plotting packages
+matplotlib # for plotting and visualization
+plotly # for interactive plotting
+seaborn # for statistical data visualization
+
+## Tables and data packages
+pandas # for data manipulation and analysis
+openpyxl # for reading and writing Excel files
+
+## Data processing packages
+opencv-python # for computer vision tasks
+scikit-image # for image processing
+scikit-learn # for machine learning algorithms
+shap # for explainability of machine learning models
+setuptools==81.0.0 # for packaging and distribution of Python projects
+
+## Requirements for RET-CLIP-PLUS
+transformers # for natural language processing tasks
+six # for Python 2 and 3 compatibility
+timm # for image models
+lmdb==1.3.0 # for database management
+torch>=1.7.1 # for deep learning
+torchvision # for computer vision tasks
+
+## Requirements for UMAP
+numba # for just-in-time compilation
+umap-learn # for dimensionality reduction using UMAP
